@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 03_City_057a_Question_a
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 4edc63d78ac5b424ba3c8119f4d8f8a0, type: 2}
+  backgroundSprite: {fileID: 21300000, guid: 77590ff8ec0a2d942b91f9c51a294baa, type: 3}
+  dialogueText: "\u041F\u0440\u043E\u0435\u0437\u0436\u0430\u0439."
+  choices: []
+  nextNode: {fileID: 11400000, guid: 83f20937ef520624ba418e683f1ddb2c, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 8300000, guid: a38e65f2f26023042aa9c6607d9ff038, type: 3}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}

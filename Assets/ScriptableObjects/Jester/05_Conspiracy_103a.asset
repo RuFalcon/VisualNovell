@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 05_Conspiracy_103a
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 35e64ea368814de4d866c42e25fe6f9b, type: 2}
+  backgroundSprite: {fileID: -5279148918026705717, guid: f644018147ae75e47b6d97d3c0c18ebf, type: 3}
+  dialogueText: "\u041E\u043D\u0430 \u0432\u043E\u0440\u043E\u0432\u0430\u043B\u0430
+    \u0435\u0434\u0443. \u0420\u043E\u0431\u0435\u0440\u0442, \u0440\u0430\u0437\u0432\u0435
+    \u0442\u044B \u0437\u0430\u0431\u044B\u043B, \u0447\u0442\u043E \u0442\u0430\u043A\u043E\u0435
+    \u0433\u043E\u043B\u043E\u0434?"
+  choices: []
+  nextNode: {fileID: 11400000, guid: eb7cc87def4c4984d87b1372f08d5886, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 0}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}

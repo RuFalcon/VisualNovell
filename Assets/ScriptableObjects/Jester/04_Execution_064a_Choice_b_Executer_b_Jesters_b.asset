@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 04_Execution_064a_Choice_b_Executer_b_Jesters_b
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 35e64ea368814de4d866c42e25fe6f9b, type: 2}
+  backgroundSprite: {fileID: 5257384840434419513, guid: 0e7e9251d8558414abb87df4d99d091d, type: 3}
+  dialogueText: "\u041E\u043D\u0438 \u043D\u0435 \u0443\u043C\u0435\u044E\u0442 \u0448\u0443\u0442\u0438\u0442\u044C
+    \u043A\u0430\u043A \u044F"
+  choices: []
+  nextNode: {fileID: 11400000, guid: 931c012ea34b78247a4859a97cbf80ff, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 0}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}

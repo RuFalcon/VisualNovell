@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 03_House_050b
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: a8a1556c0ea6af64fbe50e4160227c60, type: 2}
+  backgroundSprite: {fileID: -5282836470450749681, guid: 76518f6bfc9e0fd419db724fd09b5959, type: 3}
+  dialogueText: "\u0417\u0430\u0432\u0442\u0440\u0430 \u0443\u0442\u0440\u043E\u043C
+    \u044F \u043F\u043E\u043A\u0438\u043D\u0443 \u0437\u0430\u043C\u043E\u043A."
+  choices: []
+  nextNode: {fileID: 11400000, guid: c22e32d0989c5cd4c91d740679dda0e2, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 0}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}
+  conditionToSet: 

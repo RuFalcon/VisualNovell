@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 03_House_052a
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 8ef19645575dae44d81144fde8857e0a, type: 2}
+  backgroundSprite: {fileID: -3344438376736983339, guid: 247dd4f6072497548ac824eaeae0e857, type: 3}
+  dialogueText: "\u041D\u0435\u0443\u0436\u0435\u043B\u0438 \u044D\u0442\u043E \u0441\u0430\u043C
+    \u0441\u044D\u0440 \u0413\u0430\u0432\u0435\u0439\u043D, \u043B\u0443\u0447\u0448\u0438\u0439
+    \u0438\u0437 \u0440\u044B\u0446\u0430\u0440\u0435\u0439, \u043B\u0435\u0436\u0438\u0442
+    \u0437\u0434\u0435\u0441\u044C \u043E\u0434\u0438\u043D \u0438 \u0441\u043F\u0438\u0442?
+    \u042F \u043F\u043E\u0439\u043C\u0430\u043B\u0430 \u0432 \u043B\u043E\u0432\u0443\u0448\u043A\u0443
+    \u0442\u043E\u0433\u043E, \u043A\u043E\u0433\u043E \u0436\u0435\u043B\u0430\u044E\u0442
+    \u0432\u0441\u0435 \u0434\u0430\u043C\u044B \u0411\u0440\u0438\u0442\u0430\u043D\u0438\u0438.
+    \u0418 \u0442\u0435\u043F\u0435\u0440\u044C \u0432\u044B \u0432 \u043C\u043E\u0435\u0439
+    \u0432\u043B\u0430\u0441\u0442\u0438"
+  choices: []
+  nextNode: {fileID: 11400000, guid: e2921fe3eee445e498eab158caece178, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 0}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}
+  conditionToSet: 

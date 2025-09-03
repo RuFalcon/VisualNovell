@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 03_City_056a_Question_b
+  m_EditorClassIdentifier: 
+  character: {fileID: 0}
+  backgroundSprite: {fileID: 21300000, guid: 77590ff8ec0a2d942b91f9c51a294baa, type: 3}
+  dialogueText: "\u0421\u0442\u0440\u0430\u0436\u043D\u0438\u043A \u0437\u0430\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044F
+    \u043D\u0430 \u043F\u043E\u0432\u043E\u0437\u043A\u0443 \u0438 \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u0435\u0442
+    \u0431\u043E\u0447\u043E\u043D\u043E\u043A."
+  choices: []
+  nextNode: {fileID: 11400000, guid: 1df9c2f6f0759f149b97978f5bb98813, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 8300000, guid: a38e65f2f26023042aa9c6607d9ff038, type: 3}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}

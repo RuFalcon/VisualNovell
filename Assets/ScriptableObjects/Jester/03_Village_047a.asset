@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 03_Village_047a
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 35e64ea368814de4d866c42e25fe6f9b, type: 2}
+  backgroundSprite: {fileID: -5300698616080394933, guid: 6e5b639a85b52af45adb3a464d2dd0a2, type: 3}
+  dialogueText: "\u041C\u043E\u0433\u0443 \u0434\u0430\u0442\u044C \u0434\u0430\u0436\u0435
+    \u0434\u0432\u0430, \u043D\u043E \u043B\u0443\u0447\u0448\u0435 \u043F\u043E\u0439\u0434\u0435\u043C
+    \u043D\u0430 \u043A\u0443\u0445\u043D\u044E, \u0442\u0430\u043C \u0442\u0435\u0431\u044F
+    \u043F\u043E\u043A\u043E\u0440\u043C\u044F\u0442."
+  choices: []
+  nextNode: {fileID: 11400000, guid: 0ac15a4c306065c4bb4f525a203f10e5, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 0}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}

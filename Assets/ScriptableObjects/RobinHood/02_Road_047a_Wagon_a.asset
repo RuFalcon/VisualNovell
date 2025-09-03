@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 02_Road_047a_Wagon_a
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 6505ce28761d87e4f9dc006788e7e549, type: 2}
+  backgroundSprite: {fileID: 21300000, guid: a0963d0611c31754a990eb2a347bc638, type: 3}
+  dialogueText: "\u041D\u043E \u044D\u0442\u043E \u0432\u0441\u0451, \u0447\u0442\u043E
+    \u0443 \u043C\u0435\u043D\u044F \u0435\u0441\u0442\u044C."
+  choices: []
+  nextNode: {fileID: 11400000, guid: 1533ad40f71be3a47b6199c0f3742a52, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 8300000, guid: a38e65f2f26023042aa9c6607d9ff038, type: 3}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}

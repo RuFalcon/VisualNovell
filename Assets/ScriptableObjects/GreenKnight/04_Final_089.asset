@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 04_Final_089
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 565d45c8cc32acf499b8387e9b3b54ca, type: 2}
+  backgroundSprite: {fileID: -471082564057308639, guid: defc289303ffa5b4785186860f8f5a33, type: 3}
+  dialogueText: "\u0414\u043E\u0431\u0440\u043E \u043F\u043E\u0436\u0430\u043B\u043E\u0432\u0430\u0442\u044C
+    \u0432 \u0417\u0435\u043B\u0435\u043D\u0443\u044E \u0427\u0430\u0441\u043E\u0432\u043D\u044E,
+    \u0441\u044D\u0440 \u0413\u0430\u0432\u0435\u0439\u043D!"
+  choices: []
+  nextNode: {fileID: 11400000, guid: 32a89f772b56b0747abf94e6f06a5e02, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 0}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}
+  conditionToSet: 

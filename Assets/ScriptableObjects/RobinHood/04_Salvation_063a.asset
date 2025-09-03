@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 04_Salvation_063a
+  m_EditorClassIdentifier: 
+  character: {fileID: 11400000, guid: 582c39687cbf36442ac99534ae79746a, type: 2}
+  backgroundSprite: {fileID: -743382439178709081, guid: f9b0c5b278ab5af46bc8af52e16da188, type: 3}
+  dialogueText: "\u0423 \u043D\u0430\u0441 \u0434\u043B\u044F \u0448\u0435\u0440\u0438\u0444\u0430
+    \u043D\u043E\u0432\u043E\u0441\u0442\u0438 \u043E\u0431 \u044D\u0442\u043E\u043C
+    \u0440\u0430\u0437\u0431\u043E\u0439\u043D\u0438\u043A\u0435 \u0420\u043E\u0431\u0438\u043D\u0435
+    \u0413\u0443\u0434\u0435."
+  choices: []
+  nextNode: {fileID: 11400000, guid: 85e764fd71e382e4c82dc75379c2b0b6, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 8300000, guid: a38e65f2f26023042aa9c6607d9ff038, type: 3}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}

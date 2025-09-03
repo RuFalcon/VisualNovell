@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b0010b7d94d0c945880d6a0dcceb14e, type: 3}
+  m_Name: 06_Final_114a
+  m_EditorClassIdentifier: 
+  character: {fileID: 0}
+  backgroundSprite: {fileID: -9005916706187006590, guid: c03e1da8f3074f1409e6feffaec72087, type: 3}
+  dialogueText: "\u0412\u0435\u0447\u0435\u0440\u043E\u043C \u0442\u044B \u0431\u0435\u0440\u0435\u0448\u044C
+    \u043A\u0443\u0432\u0448\u0438\u043D \u0432\u0438\u043D\u0430 \u0438 \u043E\u0442\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0448\u044C\u0441\u044F
+    \u0432 \u043A\u043E\u043C\u043D\u0430\u0442\u0443 \u0437\u0430\u0432\u0442\u0440\u0430\u0448\u043D\u0435\u0433\u043E
+    \u043A\u043E\u0440\u043E\u043B\u044F."
+  choices: []
+  nextNode: {fileID: 11400000, guid: fa60e73cfed0d4c4da4c130a240ad830, type: 2}
+  isEnding: 0
+  endingText: 
+  backgroundMusicClip: {fileID: 0}
+  stopCurrentMusic: 0
+  soundEffectClip: {fileID: 0}
